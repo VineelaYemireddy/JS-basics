@@ -9,7 +9,7 @@ function sayName() {
 
 	function sayNameTwo() {
 		var name = "Mr. HC";
-		console.log("Line number 12", name);
+		console.log("Line number 12A", name);
 	}
 }
 
